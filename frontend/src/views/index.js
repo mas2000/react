@@ -1,0 +1,17 @@
+export { default as Inicio } from './inicio/Inicio.js';
+export { default as Publicaciones } from './publicaciones/Publicaciones.js';
+export { default as Publicacion } from './publicacion1/Publicacion.js';
+export { default as Mensajeria } from './mensajeria/Mensajeria.js';
+export { default as Cargar } from './cargar/Cargar.js';
+export { default as Tasar } from './tasar/Tasar.js';
+export { default as Editar } from './editar/Editar.js';
+export { default as Registrarse } from './registrarse/Registrarse.js';
+export { default as Membresias } from './membresias/Membresias.js';
+export { default as RegistroInmobiliario } from './registro-inmobiliario/RegistroInmobiliario.js';
+export { default as SolicitudRegistro } from './solicitud-registro/SolicitudRegistro.js';
+export { default as TipoRegistro } from './tipo-registro/TipoRegistro.js';
+export { default as GestionInmobiliaria } from './gestion-inmobiliaria/GestionInmobiliaria.js';
+export { default as Login } from './login/Login.js';
+export { default as Verificacion } from './verificacion/Verificacion.js';
+export { default as SuccessRegister } from './solicitud-exitosa/SuccesRegister.js';
+export { default as GestionMoving360 } from './gestion-moving360/GestionMoving360.js'
